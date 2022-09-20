@@ -12,6 +12,7 @@
   .container {
     width: 500px;
     background: #009579;
+    margin: 0 auto;
   }
 
   :global(.container *) {
